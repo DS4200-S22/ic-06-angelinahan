@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.section2 {
+  display: flex;
+  align-items: center;
+}
+
+.blue {
+  fill: blue;
+}
+
+.green {
+  fill: green;
+}
